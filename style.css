@@ -1,0 +1,220 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*- font start -*/
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Sora:wght@100..800&display=swap');
+
+/*
+    // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 800
+
+.sora-<uniquifier> {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.roboto-thin {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.roboto-light {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-medium {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.roboto-bold {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.roboto-black {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.roboto-thin-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.roboto-light-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.roboto-regular-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.roboto-medium-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.roboto-bold-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.roboto-black-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 200 to 700
+
+.oswald-<uniquifier> {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+*/
+/* Homepage */
+.topic{
+    background-color: rgba(12,15,24,255);
+    display: inline;
+    display: flex;
+    justify-content:space-evenly;
+    
+    
+}
+.logohead{
+  display: block;
+  width: 50%;
+}
+
+.intro{
+  font-size: 250%;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  color: goldenrod;
+  padding-top: 2%;
+}
+.menu1{
+    text-align: center;
+    background-color: darkcyan;
+}
+.menu1 ul li {
+    text-align: center;
+    list-style-type: none;
+    display: inline-block;
+    padding: 1% 2%;
+}
+.menu1 ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-family: "Oswald", sans-serif;
+
+}
+.login{
+  padding-top: 2.5%;
+}
+.login ul li {
+  list-style-type: none;
+}
+.login ul li a {
+  text-decoration: none;
+  color: rgba(172, 201, 47, 0.945);
+  font-size: 18px;
+  font-family: "Oswald", sans-serif;
+  padding-top: 10px;
+}
+
+
+
+/* About start */
+
+
+
+
+
+/* About End */
+
+
+
+/* physics start */
+
+
+
+
+
+
+
+/* physics end */
+
+
+
+/* chemistry start */
+
+
+
+
+
+/* chemistry start */
+
+
+
+/* math start*/
+
+
+
+
+
+
+/* math start*/
+
+
+
+/* RWD start*/
+
+
+
+
+
+
+
+/* RWD end*/
+
+
+
+/* digitalmarketing start*/
+
+
+
+
+
+
+/* digitalmarketing end*/
